@@ -2,17 +2,16 @@
 
 ## I'm a Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning MERN 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and watching movies
+- 🥅 2025 Goals: Open my own IT companey. 
+- ⚡ Fun fact: I love to play with Programming Language and watching movies
 
 ### Connect with me:
 
-<a href="https://www.youtube.com/channel/UCF-ZVqEZhWAqIS3yP_sAwLQ"><img align="left" alt="codeForLosers | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<img align="left" alt="codeForLosers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeForLosers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeForLosers | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.youtube.com/@Lab.71"><img align="left" alt="codeForLosers | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 <br />
 
